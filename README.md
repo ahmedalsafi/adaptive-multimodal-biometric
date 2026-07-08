@@ -10,7 +10,7 @@
 
 | File | Description |
 |------|-------------|
-| `biometric_system_complete.ipynb` | Complete pipeline: training, evaluation, all tables and figures |
+| `reproducibility.ipynb` | Complete pipeline: training, evaluation, all tables and figures |
 | `requirements.txt` | Required Python packages |
 
 ---
